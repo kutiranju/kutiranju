@@ -6,7 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [linkedin]:https://github.com/kutiranju/kutiranju
+- [Linkedin](https://www.linkedin.com/in/ranjani-prasad-82108b17)
 <!--
 **kutiranju/kutiranju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
