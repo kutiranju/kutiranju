@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ranju!<br/><a href="https://github.com/kutiranju/kutiranju">Software Engineer</a>, <a href="https://www.linkedin.com/in/ranjani-prasad-82108b17/">SQL Database Developer</a>, <a href="https://github.com/kutiranju/kutiranju">IT Operations Expert</a></h1>
+<h1>Hi, I'm Ranju!<br/><a href="https://github.com/kutiranju/kutiranju">Software Engineer</a>, <a href="https://www.linkedin.com/in/ranjani-prasad-82108b17/">SQL Developer</a>, <a href="https://github.com/kutiranju/kutiranju">IT Operations Specialist</a></h1>
 
 <h2>👨‍💻 Software Projects </h2>
 
@@ -8,11 +8,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align ="left" alt="Ranju | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-
-
-[linkedin]: https://www.linkedin.com/in/ranjani-prasad-82108b17
+- [Linkedin](https://www.linkedin.com/in/ranjani-prasad-82108b17)
 
 <!--
 **kutiranju/kutiranju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
