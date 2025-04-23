@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ranju!<br/><a href="https://github.com/kutiranju/kutiranju">Software Engineer</a>, <a href="https://www.linkedin.com/in/ranjani-prasad-82108b17/">SQL Developer</a>, <a href="https://github.com/kutiranju/kutiranju">IT Operations Specialist</a></h1>
+<h1>Hi, I'm Ranju!<br/><a href="https://github.com/kutiranju/kutiranju">Software Engineer</a>, <a href="https://www.linkedin.com/in/ranjani-prasad-82108b17/">SQL Developer</a>, <a href="https://github.com/kutiranju/kutiranju">IT Operations Specialist</a>, <a href="https://github.com/kutiranju/kutiranju">Project Manager</h1>
 
 <h2>👨‍💻 Software Projects </h2>
 
