@@ -4,6 +4,8 @@
 
 - [Power Platform Projects](https://github.com/kutiranju/powerapps-portfolio)
 
+<h2> Certifications </h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 - [Linkedin](https://www.linkedin.com/in/ranjani-prasad-82108b17)
